@@ -45,12 +45,12 @@ const UserDataComponent = ({date}) => {
 
   return (
     <div>
-      <div style={{ width: 700 }}>
+      {/* <div style={{ width: 700 }}>
       {
         chartData &&
         <BarChart chartData={chartData} />
       }
-      </div>
+      </div> */}
 
       <div class="content"/>
         <div class="animated fadeIn">
